@@ -8,7 +8,7 @@
 
 ## 🖥️ Project Preview
 
-![App Screenshot](screenshot.png) 
+![App Screenshot](image.png) 
 
 ---
 
@@ -62,11 +62,11 @@ This project investigates whether Explainable AI (XAI) is necessary or overrated
 Explainable-AI-Loan-Predictor/
 │
 ├── app.py                     # Streamlit web application
-├── gui_app.py                # Tkinter GUI version (optional desktop app)
+├── gui_app.py                # Tkinter GUI version 
 ├── requirements.txt          # Required Python libraries
 ├── README.md                 # Project documentation
 ├── screenshot.png            # App preview image
 │
 └── Datasets_AI_project/
     ├── train_u6lujuX_CVtuZ9i.csv   # Training dataset
-    └── test_Y3wMUE5_7gLdaTN.csv    # Testing dataset (optional) 
+    └── test_Y3wMUE5_7gLdaTN.csv    # Testing dataset  
